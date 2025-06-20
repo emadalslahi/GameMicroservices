@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch (Play.Inventory.Service)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/src/Play.Inventory.Service/bin/Debug/net9.0/Play.Inventory.Service.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/src/Play.Inventory.Service",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+      }
+    ]
+}
